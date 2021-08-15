@@ -1,0 +1,63 @@
+body{
+    background-image: url("gradient-summer-background-videocalls_52683-61337.jpg");
+    color: silver;
+    background-size: cover;
+}
+.h2{
+    box-shadow:5px 5px 18px black;
+    color: crimson;
+    background-color:sandybrown;
+    width:40%;
+    height: 20% ; 
+    float:none; 
+    
+  }
+  .header_div{
+    box-shadow: 5px 5px 18px grey;
+    width:70%;
+    height:35%;
+    background-color:lightyellow;
+    color:crimson;
+    float:none;
+    border-radius: 10px;
+
+}
+.header_div_2{
+    box-shadow: 5px 5px 18px aqua;
+    width:50%;
+    height:25%;
+    background-color:lightyellow;
+    color:orangered;
+    float:none;
+    border-radius: 10px;
+  
+}
+.result_para_tag{
+    box-shadow:5px 5px 18px lime;
+    background-color:limegreen ;
+    color:teal;
+    width:50%;
+    height:25%;
+    border-radius: 10px;
+    font-size: larger;
+    
+}
+
+.copy_right_footer{
+    bottom:0;
+    background-color:darkcyan;
+    color: black;
+    position:fixed;
+    line-height: 3;
+    width:100%;
+    text-align: center;
+    margin-top: 100px;
+    }
+    canvas{
+       margin-top: 245px;
+       margin-left: 5px;
+       
+        box-shadow: 5px 5px 18px grey;
+        border-radius: 10px;
+        border:5px solid springgreen;
+    }
